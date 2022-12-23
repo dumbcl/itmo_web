@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Lab 3</title>
+    <link href="style.css" rel="stylesheet"/>
+    <script src="index.js"></script>
+</head>
+<body>
+<div id="root">
+    <button onclick="addTable()">Создать таблицу</button>
+    <div>
+        <input type="text" id="addtext" placeholder="Введите текст" />
+    </div>
+    <button id="button1" onclick="addRow()" onsubmit="addRow()" disabled>Добавить строку</button>
+    <div>
+        <input type="text" id="number" placeholder="Введите номер строки"/>
+    </div>
+    <button id="button2" onclick="deleteRow()" disabled>Удалить строку №</button>
+</div>
+</body>
+</html>
