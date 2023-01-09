@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+    <work id="1">
+        <id>1</id>
+        <name>Online fashion store</name>
+        <client>Zara</client>
+        <yearofcreation>2022-01</yearofcreation>
+        <link>www.zara.com</link>
+    <id>2</id><name>фыф</name><client>as</client><yearofcreation>23</yearofcreation><link>sasa</link></work>
+    <work id="2">
+        <id>2</id>
+        <name>Reebok Store</name>
+        <client>Just a concept</client>
+        <yearofcreation>2021-02</yearofcreation>
+        <link>www.reebokconcept.com</link>
+    </work>
+    <work id="3">
+        <id>3</id>
+        <name>Braun Landing Page</name>
+        <client>Braun</client>
+        <yearofcreation>2020-03</yearofcreation>
+        <link>www.braun.com</link>
+    </work>
+</portfolio>
