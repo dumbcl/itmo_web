@@ -1,6 +1,3 @@
-<?php
-    $portfolio = simplexml_load_file('data.xml');
-?>
 <table border="2">
     <tr>
         <th>Id</th>
